@@ -18,7 +18,8 @@ Aspiring Java backend developer focused on building real-world REST APIs using S
 
 📫 Reach me at:
 - Email: carsontankersley@icloud.com
-- LinkedIn: soon to be made
+- LinkedIn: www.linkedin.com/in/
+carson-tankersley
 
 🌱 Always learning & building. Open to junior opportunities!
 
