@@ -3,7 +3,7 @@
 Aspiring Java backend developer focused on building real-world REST APIs using Spring Boot, Java, and MySQL.
 
 🔭 I’m currently:
-- Completing a Java developer certification
+- completed a Java certification on 06/08/2025
 - Learning Spring Boot & building backend projects
 - Working on improving my Git and deployment skills
 
